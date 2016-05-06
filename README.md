@@ -1,2 +1,2 @@
 # Hello-World
-first one I have no idea what I am doing
+I have a background in Kinesiology for Exercise Nutrition and Wellness.  I have wanted to commit to learning code for a while however, I was not able to make it make sense for me until now.  I have have experience using hospital grade indirect calormetry and Cardio Pulmonary Vo2 machines and I would like to get explore a way to intergrate body fat percentage like a untrasound with the indirect calometry instead of using a total different method like air or water displacment.  Everyone can not use DXA the bone density test for body fat or the BIA bioelectrical impedance as the elecric current could b undesirable for some.  I am new to coding and am very excited to learn and grow.
